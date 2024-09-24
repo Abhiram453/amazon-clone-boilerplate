@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    background-image: url(assets/background\ picture.png);
+    background-size: auto;
+    
+    
+
+}
+
+
+.amazon{
+    background-color:rgb(29, 9, 67);
+    width: 100%;
+    height: 70px;
+    color:aliceblue;
+    
+
+}
+.list{
+    background-image: url(assets/hamburgericon.png);
+    color: white;
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 20px;
+    
+    
+    
+}
